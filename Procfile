@@ -1,3 +1,3 @@
-release: bash ./deploy.sh
+realese: bash ./deploy.sh
 
 web: vendor/bin/heroku-php-apache2 public/
